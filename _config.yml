@@ -12,7 +12,7 @@ title                    : "Alessandra Perez / Portfolio"
 title_separator          : "-"
 name                     : &name "Alessandra Perez"
 description              : &description "Graduate student with expertise in civil engineering, hydrology, GIS, and machine learning."
-url                      : https://alessandraperez.github.io
+url                      : "https://alessandraperez.github.io"
 baseurl                  : "" 
 repository               : "AlessandraPerez/alessandraperez.github.io"
 
